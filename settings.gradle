@@ -1,0 +1,7 @@
+include ':logout'
+include ':login'
+include ':annotation-api'
+include ':annotation-compiler'
+include ':annotation'
+include ':app'
+rootProject.name = "ARouter"
